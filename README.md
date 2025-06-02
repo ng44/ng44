@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Nikos, and I am an Application Analyst in Power Systems industry. I am interested in DevSecOps practices, automation concepts and AI utilisation.
+
+- 🔭 I’m currently developing CI/CD pipelines for complex software to increase automation against manual intervention.
+- 🌱 In July, I plan to complete a training in DevSecOps Foundation Level.
+- 🤔 I’m looking to know more about industry-wide best practices on AI, pipelines, and automation.
+- 💬 Ask me about my background, which you can find [here](https://github.com/ng44/CV/blob/main/README.md)
+
 <!--
 **ng44/ng44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
