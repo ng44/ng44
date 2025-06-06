@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nikos, and I am an Application Analyst in Power Systems industry. I am interested in DevSecOps practices, automation concepts and AI utilisation.
+My name is Nikos, and I am an Application Analyst in Power Systems industry. I am interested in DevSecOps concepts in order to provide the right momentum for teams and products to successfull Go-Live.
 
 - 🔭 I’m currently developing CI/CD pipelines for complex software to increase automation against manual intervention.
 - 🌱 In July, I plan to complete a training in DevSecOps Foundation Level.
