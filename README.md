@@ -2,7 +2,7 @@
 
 My name is Nikos, and I am an Application Analyst in Power Systems industry. I am interested in DevSecOps concepts in order to provide the right momentum for teams and products to successfull Go-Live.
 
-- 🔭 I’m currently managing the CI/CD process as part of ITIL in energy-electricity industry.
+- 🔭 I’m currently managing the CI/CD process as part of ITIL concept in energy-electricity industry.
 - 🤔 I’m looking to know more about industry-wide best practices on AI, pipelines, and automation.
 - 💬 Ask me about my background, which you can find [here](https://github.com/ng44/CV/blob/main/README.md)
 
